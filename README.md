@@ -1,6 +1,4 @@
-# **Web502-Josh-Moss**
-
-\newline
+# **Web502-Josh-Moss**\
 
 ## WeekOne Web502 
 
