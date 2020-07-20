@@ -1,6 +1,10 @@
 # Web502-Josh-Moss
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+## WeekOne Web502 
+
+
+
+Assessments  | Weighting %  |  Due date
+------------ | ------------- | ---------------
+Assessment 1: Labs | 25% | Week 1-8
+Content in the first column | Content in the second column |
