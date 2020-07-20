@@ -7,4 +7,5 @@
 Assessments  | Weighting %  |  Due date
 ------------ | ------------- | ---------------
 Assessment 1: Labs | 25% | Week 1-8
-Content in the first column | Content in the second column |
+Assessment 2: Knowledge Quiz | 25% | Week 14
+Assessment 3: Implement a framework solution | 50% | week 15
